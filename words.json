@@ -1,0 +1,2927 @@
+[
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to weaken; to reduce in force or amount; to make thin",
+  "examples": [
+   "The medicine *attenuated* her symptoms but didn't cure the illness.",
+   "Thick walls *attenuate* the sound from the practice rooms."
+  ],
+  "note": "In physics, *attenuation* is the gradual loss of a signal's strength (신호 감쇠).",
+  "pos": "v",
+  "pron": "uh TEN yoo ayt",
+  "pronFlag": false,
+  "word": "attenuate",
+  "id": "attenuate"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to give evidence of; to show that something is true",
+  "examples": [
+   "The packed concert hall *attests to* the orchestra's popularity.",
+   "Several witnesses *attested to* the driver's innocence."
+  ],
+  "note": "An *attestation* is a formal statement that something is true.",
+  "pos": "v",
+  "pron": "uh TEST",
+  "pronFlag": false,
+  "word": "attest to",
+  "id": "attest-to"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "aware of and responsive to; in harmony with",
+  "examples": [
+   "A good conductor is *attuned to* every section of the orchestra."
+  ],
+  "note": "Think of an instrument tuned to the right pitch. You are *attuned to* something.",
+  "pos": "adj",
+  "pron": "uh TOOND",
+  "pronFlag": false,
+  "word": "attuned",
+  "id": "attuned"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "extremely complicated; full of intrigue",
+  "examples": [
+   "Applying for the scholarship meant getting through a *byzantine* set of rules."
+  ],
+  "note": "With a capital B, *Byzantine* refers to the Byzantine Empire, whose government was famous for its complexity and scheming.",
+  "pos": "adj",
+  "pron": "BIZ un teen",
+  "pronFlag": false,
+  "word": "byzantine",
+  "id": "byzantine"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to combine two different things into one; to treat them as the same",
+  "examples": [
+   "Don't *conflate* correlation with causation."
+  ],
+  "note": "*Conflation* is usually a mistake in thinking: two separate ideas get blended together.",
+  "pos": "v",
+  "pron": "kun FLAYT",
+  "pronFlag": false,
+  "word": "conflate",
+  "id": "conflate"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to cancel an order, usually by giving a new one",
+  "examples": [
+   "The general *countermanded* the order to attack when the fog rolled in."
+  ],
+  "note": "*Counter* (against) + *mand* (order), as in *command* and *mandate*.",
+  "pos": "v",
+  "pron": "KOWN tur mand",
+  "pronFlag": false,
+  "word": "countermand",
+  "id": "countermand"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "the separation of two things that were linked",
+  "examples": [
+   "Economists hope for the *decoupling* of economic growth from carbon emissions."
+  ],
+  "note": "To *decouple* is to disconnect. The word comes from railways, where cars are *coupled* and *uncoupled*.",
+  "pos": "n",
+  "pron": "dee KUP ling",
+  "pronFlag": false,
+  "word": "decoupling",
+  "id": "decoupling"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "unoriginal; imitating the work of others",
+  "examples": [
+   "Critics called the novel *derivative*, a weak copy of better fantasy series."
+  ],
+  "note": "Outside of calculus (도함수), *derivative* has two common meanings. In art and writing it means unoriginal (아류작, 모방작). In finance, a *derivative* is a contract whose value comes from another asset (파생상품).",
+  "pos": "adj",
+  "pron": "di RIV uh tiv",
+  "pronFlag": false,
+  "word": "derivative",
+  "id": "derivative"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to reveal something secret",
+  "examples": [
+   "The journalist refused to *divulge* her sources."
+  ],
+  "note": "",
+  "pos": "v",
+  "pron": "di VULJ",
+  "pronFlag": false,
+  "word": "divulge",
+  "id": "divulge"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to flow out of; to come from a source",
+  "examples": [
+   "A low hum *emanated from* the old refrigerator in the corner."
+  ],
+  "note": "Light, sound, smells, feelings, and ideas can all *emanate from* something. The noun is *emanation*.",
+  "pos": "v",
+  "pron": "EM uh nayt",
+  "pronFlag": false,
+  "word": "emanate from",
+  "id": "emanate-from"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to explain in detail",
+  "examples": [
+   "The professor *expounded on* her theory for nearly an hour."
+  ],
+  "note": "",
+  "pos": "v",
+  "pron": "ik SPOWND",
+  "pronFlag": false,
+  "word": "expound",
+  "id": "expound"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "a place of safety; a refuge",
+  "examples": [
+   "The library was a *haven* from the noise of the dorm."
+  ],
+  "note": "*Haven* originally meant harbor. A tax *haven* is a country where people go to avoid taxes.",
+  "pos": "n",
+  "pron": "HAY vun",
+  "pronFlag": false,
+  "word": "haven",
+  "id": "haven"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to depend on",
+  "examples": [
+   "The outcome of the election *hinges on* the final vote count."
+  ],
+  "note": "A door turns on its *hinge*; an outcome turns on whatever it *hinges on*.",
+  "pos": "v",
+  "pron": "hinj",
+  "pronFlag": false,
+  "word": "hinge on",
+  "id": "hinge-on"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "just begun; not yet fully formed; undeveloped",
+  "examples": [
+   "Her plan for the science fair was still *inchoate*: she had a topic but no experiment."
+  ],
+  "note": "An *inchoate* idea isn't confused; it simply hasn't finished taking shape. Don't mix it up with *incoherent*.",
+  "pos": "adj",
+  "pron": "in KOH it",
+  "pronFlag": true,
+  "word": "inchoate",
+  "id": "inchoate"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to stir up; to provoke; to urge on",
+  "examples": [
+   "The speaker was arrested for *inciting* a riot."
+  ],
+  "note": "*Incite* almost always goes with something bad: violence, hatred, panic. Don't confuse it with *insight*, which sounds the same.",
+  "pos": "v",
+  "pron": "in SYTE",
+  "pronFlag": false,
+  "word": "incite",
+  "id": "incite"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "an indirect hint, usually negative or suggestive",
+  "examples": [
+   "The article never accused the senator directly; it relied on *innuendo*."
+  ],
+  "note": "The plural is *innuendos* or *innuendoes*.",
+  "pos": "n",
+  "pron": "in yoo EN doh",
+  "pronFlag": false,
+  "word": "innuendo",
+  "id": "innuendo"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "of various kinds; mixed",
+  "examples": [
+   "The junk drawer was full of *miscellaneous* items: batteries, rubber bands, and old keys."
+  ],
+  "note": "A *miscellany* is a collection of various things. The abbreviation is *misc.*",
+  "pos": "adj",
+  "pron": "mis uh LAY nee us",
+  "pronFlag": false,
+  "word": "miscellaneous",
+  "id": "miscellaneous"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "a small piece of food; a small amount of anything",
+  "examples": [
+   "The dog gobbled up every *morsel* that fell from the table.",
+   "She shared a few *morsels* of gossip from the meeting."
+  ],
+  "note": "*Morsel* works for food and for information.",
+  "pos": "n",
+  "pron": "MOR sul",
+  "pronFlag": false,
+  "word": "morsel",
+  "id": "morsel"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "having many sides or aspects",
+  "examples": [
+   "Poverty is a *multifaceted* problem with no single solution."
+  ],
+  "note": "A *facet* is one face of a cut gem, or one aspect of something.",
+  "pos": "adj",
+  "pron": "mul tee FAS uh tid",
+  "pronFlag": false,
+  "word": "multifaceted",
+  "id": "multifaceted"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to state an opinion",
+  "examples": [
+   "Everyone at the table wanted to *opine about* the election."
+  ],
+  "note": "*Opine* is a little formal and is sometimes used ironically for people who share opinions nobody asked for.",
+  "pos": "v",
+  "pron": "oh PYNE",
+  "pronFlag": false,
+  "word": "opine",
+  "id": "opine"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "extremely careful and thorough",
+  "examples": [
+   "Restoring the painting took two years of *painstaking* work."
+  ],
+  "note": "To *take pains* is to make a great effort. *Painstaking* work is work someone took pains over.",
+  "pos": "adj",
+  "pron": "PAYNZ tay king",
+  "pronFlag": false,
+  "word": "painstaking",
+  "id": "painstaking"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "unstable; insecure; dangerously likely to fall or fail",
+  "examples": [
+   "The vase sat in a *precarious* position on the edge of the shelf.",
+   "Gig workers often complain about the *precariousness* of their income."
+  ],
+  "note": "*Precariousness* is the state of being *precarious*.",
+  "pos": "adj",
+  "pron": "pri KAIR ee us",
+  "pronFlag": false,
+  "word": "precarious",
+  "id": "precarious"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to foreshadow; to show an early sign of",
+  "examples": [
+   "Beethoven's early sonatas *prefigure* the drama of his later symphonies."
+  ],
+  "note": "",
+  "pos": "v",
+  "pron": "pree FIG yur",
+  "pronFlag": false,
+  "word": "prefigure",
+  "id": "prefigure"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to turn the hand so the palm faces down, or the foot so it rolls inward",
+  "examples": [
+   "Runners who *pronate* too much often buy shoes with extra arch support."
+  ],
+  "note": "The opposite is *supinate* (SOO puh nayt). The noun is *pronation*.",
+  "pos": "v",
+  "pron": "PROH nayt",
+  "pronFlag": false,
+  "word": "pronate",
+  "id": "pronate"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "drawn out; prolonged",
+  "examples": [
+   "After *protracted* negotiations, the two companies finally signed the deal."
+  ],
+  "note": "To *protract* is to lengthen in time. *Protracted* often suggests that something went on longer than anyone wanted.",
+  "pos": "adj",
+  "pron": "proh TRAK tid",
+  "pronFlag": false,
+  "word": "protracted",
+  "id": "protracted"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "generally believed or assumed to be; supposed",
+  "examples": [
+   "The *putative* author of the anonymous letter denied writing it."
+  ],
+  "note": "Neutral but skeptical: it flags that something is assumed, not proven. Common with *father*, *leader*, *cause*, *benefits*.\nCompare *alleged*, which is used for accusations (*alleged thief*), while *putative* is used for status or identity.",
+  "pos": "adj",
+  "pron": "PYOO tuh tiv",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "putative",
+  "id": "putative"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to limit or soften a statement; to make less absolute",
+  "examples": [
+   "She *qualified* her praise by adding that the ending felt rushed."
+  ],
+  "note": "On the SAT, *qualify* usually means to limit a claim, not to meet requirements. An author who *qualifies* an argument adds “but,” “in some cases,” or “largely.”\nA *qualified* endorsement is lukewarm; an *unqualified* success is complete.",
+  "pos": "v",
+  "pron": "KWAHL uh fye",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "qualify",
+  "id": "qualify"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "having to do with qualities or kinds rather than amounts",
+  "examples": [
+   "The survey gave us *qualitative* data: people's descriptions of how they felt."
+  ],
+  "note": "Neutral and technical. Paired with *quantitative* in science and social studies passages: *qualitative* data are descriptions and interviews; *quantitative* data are numbers.",
+  "pos": "adj",
+  "pron": "KWAHL uh tay tiv",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "qualitative",
+  "id": "qualitative"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "complaining; whiny; peevish",
+  "examples": [
+   "The *querulous* passenger grumbled about the seat, the snacks, and the temperature."
+  ],
+  "note": "Negative, and it describes a habit, not a single complaint. A *querulous* person whines by temperament.\nCompare *quarrelsome* (eager to argue) and *petulant* (childishly sulky).",
+  "pos": "adj",
+  "pron": "KWER uh lus",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "querulous",
+  "id": "querulous"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "idealistic in an impractical way; chasing impossible dreams",
+  "examples": [
+   "His *quixotic* plan to end homework at our school lasted one week."
+  ],
+  "note": "Mixed: it admires the idealism but mocks the impracticality. *Quixotic quest*, *quixotic campaign*.\nCompare *utopian* (about a perfect society) and *impractical* (no admiration at all).\nFrom Don Quixote, the hero of Cervantes' novel, who charged at windmills thinking they were giants.",
+  "pos": "adj",
+  "pron": "kwik SAHT ik",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "quixotic",
+  "id": "quixotic"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a consequence, often an unexpected or indirect one",
+  "examples": [
+   "Few people thought about the long-term *ramifications* of the new law."
+  ],
+  "note": "Neutral to negative, and usually plural. It suggests consequences that branch out further than expected. 파급 효과.\nCompare *repercussion*, which stresses a reaction bouncing back, often unpleasant.\nThe verb is *ramify*, to branch out. 파급 효과.",
+  "pos": "n",
+  "pron": "ram uh fuh KAY shun",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "ramification",
+  "id": "ramification"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to branch out; to spread out in effects or consequences",
+  "examples": [
+   "The new tax law *ramified* through every corner of the economy."
+  ],
+  "note": "A *ramification* (ram uh fuh KAY shun) is a consequence that grows out of a decision: 파급 효과.",
+  "pos": "v",
+  "pron": "RAM uh fye",
+  "pronFlag": false,
+  "word": "ramify",
+  "id": "ramify"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "long-lasting bitterness or resentment",
+  "examples": [
+   "Years after the breakup, there was still *rancor* between the two bandmates."
+  ],
+  "note": "Strongly negative. It's bitterness that has lasted and festered, not a flash of anger.\nCompare *animosity* (active hostility) and *resentment* (a feeling of being wronged). *Rancor* is the deepest and longest-held.\nThe adjective is *rancorous*.",
+  "pos": "n",
+  "pron": "RANG kur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "rancor",
+  "id": "rancor"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "greedy; grasping; taking by force",
+  "examples": [
+   "The *rapacious* landlord raised the rent every six months."
+  ],
+  "note": "Strongly negative. Greed that grabs and takes, often by force. Common with *landlord*, *developers*, *appetite*, *empire*.\nCompare *avaricious* (wants to hoard wealth) and *voracious* (huge appetite, not necessarily bad: a *voracious* reader).\n*Rapacity* is the noun.",
+  "pos": "adj",
+  "pron": "ruh PAY shus",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "rapacious",
+  "id": "rapacious"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to criticize sharply; to scold",
+  "examples": [
+   "The coach *rebuked* the team for showing up late to practice."
+  ],
+  "note": "Negative and sharp; often public or official. Weaker to stronger: *reprove* < *reproach* < *rebuke* < *castigate*.",
+  "pos": "v",
+  "pron": "ri BYOOK",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "rebuke",
+  "id": "rebuke"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to argue against; to try to prove false",
+  "examples": [
+   "The debater had two minutes to *rebut* her opponent's main claim."
+  ],
+  "note": "Neutral; used for arguments and debates. To *rebut* is to answer a claim with counterevidence. It doesn't guarantee you won. If you succeed, you have *refuted* it.\nA *rebuttal* is the counterargument itself.",
+  "pos": "v",
+  "pron": "ri BUT",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "rebut",
+  "id": "rebut"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "stubbornly refusing to obey or cooperate",
+  "examples": [
+   "The *recalcitrant* toddler refused to put on his shoes."
+  ],
+  "note": "Negative. Stubborn resistance to authority or control: *recalcitrant* students, nations, or even a *recalcitrant* stain.\nCompare *obstinate* (stubborn in general) and *intractable* (hard to manage or solve).",
+  "pos": "adj",
+  "pron": "ri KAL suh trunt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "recalcitrant",
+  "id": "recalcitrant"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to formally take back something one has said or believed",
+  "examples": [
+   "Under pressure, the witness *recanted* his earlier testimony."
+  ],
+  "note": "Neutral to negative; implies backing down, often under pressure. Used for beliefs, testimony, or confessions.\nCompare *retract* (take back any statement) and *renounce* (give up a belief, claim, or title).\nA *recantation* is a public withdrawal of a statement.",
+  "pos": "v",
+  "pron": "ri KANT",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "recant",
+  "id": "recant"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "given and returned in equal measure; mutual",
+  "examples": [
+   "The two schools have a *reciprocal* agreement to share libraries."
+  ],
+  "note": "Positive or neutral; stresses fairness and balance. *Reciprocal* trust, visits, agreements.\nOne-sided feelings are *unrequited*; shared ones are *reciprocated*.",
+  "pos": "adj",
+  "pron": "ri SIP ruh kul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "reciprocal",
+  "id": "reciprocal"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "living apart from others; avoiding company",
+  "examples": [
+   "The *reclusive* novelist hadn't given an interview in thirty years."
+  ],
+  "note": "Neutral to slightly negative; suggests a choice to withdraw, not shyness.\nCompare *introverted* (a personality trait) and *solitary* (simply alone).\nA *recluse* (REK loos) is a person who lives this way.",
+  "pos": "adj",
+  "pron": "ri KLOOS iv",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "reclusive",
+  "id": "reclusive"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to remember; to recall",
+  "examples": [
+   "I can't *recollect* where I left my calculator."
+  ],
+  "note": "A *recollection* is a memory. Don't confuse it with *re-collect* (ree kuh LEKT), which means to gather again.",
+  "pos": "v",
+  "pron": "rek uh LEKT",
+  "pronFlag": true,
+  "word": "recollect",
+  "id": "recollect"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "hard to understand; known only to a few experts",
+  "examples": [
+   "The lecture was full of *recondite* references to medieval philosophy."
+  ],
+  "note": "Neutral to slightly negative. Knowledge that is obscure because few people study it.\nCompare *abstruse* (hard to understand because it's complicated) and *esoteric* (meant for an inner circle).",
+  "pos": "adj",
+  "pron": "REK un dyte",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "recondite",
+  "id": "recondite"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "an accusation made in return; blaming each other",
+  "examples": [
+   "After the loss, the locker room filled with angry *recriminations*."
+  ],
+  "note": "Negative. The key idea is that the blame goes both ways: “You started it!” “No, you did!” Usually plural.",
+  "pos": "n",
+  "pron": "ri krim uh NAY shun",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "recrimination",
+  "id": "recrimination"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "having a strong smell; strongly suggestive of something",
+  "examples": [
+   "The kitchen was *redolent* of garlic and fresh bread.",
+   "The old hotel was *redolent* of the 1920s."
+  ],
+  "note": "Usually positive for smells (*redolent of pine*). Figuratively, it means strongly suggesting or reminding of something: *redolent of the 1960s*.\nIt is almost always followed by *of* or *with*.",
+  "pos": "adj",
+  "pron": "RED uh lunt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "redolent",
+  "id": "redolent"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "unnecessary because already said or present; repetitive",
+  "examples": [
+   "“Free gift” is *redundant*: every gift is free."
+  ],
+  "note": "Negative in writing: unnecessary repetition. Positive in engineering: a *redundant* system has backups.\nOn the SAT, answer choices that repeat an idea already stated are often wrong because they're *redundant*.",
+  "pos": "adj",
+  "pron": "ri DUN dunt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "redundant",
+  "id": "redundant"
+ },
+ {
+  "added": "2026-10-19T02:14:01.664Z",
+  "def": "to prove a claim or argument false; to disprove with evidence; to deny or rebut",
+  "examples": [
+   "The scientist used new data to *refute* the long-standing theory that the species had gone extinct decades ago.",
+   "No amount of testimony could *refute* the video evidence showing exactly where the defendant had been that night."
+  ],
+  "note": "Connotation is neutral to positive, since it suggests a successful, evidence-based takedown of a claim. Common pairings: *refute* a claim, an argument, a theory, or an accusation.\nIt is stronger than *rebut*, which only means to argue against something and does not require success. It is also not the same as *deny* (merely say untrue) or *repudiate* (reject outright); related forms are the noun *refutation* and the adjective *irrefutable*.\nKorean: 반박하다, 논박하다, 오류를 입증하다",
+  "pos": "v",
+  "pron": "ri FYOOT",
+  "pronFlag": true,
+  "word": "refute",
+  "id": "refute"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "entertained or delighted, especially with stories",
+  "examples": [
+   "At dinner we were *regaled by* Grandpa's stories of his army days."
+  ],
+  "note": "You *regale* someone *with* something, so the passive can be *regaled with* or *regaled by*. *Regale* can also mean to feast someone with food and drink.",
+  "pos": "v",
+  "pron": "ri GAYLD",
+  "pronFlag": false,
+  "word": "regaled by",
+  "id": "regaled-by"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to go back to an earlier, usually worse, state",
+  "examples": [
+   "After months of improvement, the patient's condition began to *regress*."
+  ],
+  "note": "*Regress* is the opposite of *progress*. The noun is *regression*.",
+  "pos": "v",
+  "pron": "ri GRES",
+  "pronFlag": false,
+  "word": "regress",
+  "id": "regress"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to say again; to repeat",
+  "examples": [
+   "The teacher *reiterated* that the essay was due Friday."
+  ],
+  "note": "Neutral; often used when someone repeats for emphasis. Saying “reiterate again” is redundant.",
+  "pos": "v",
+  "pron": "ree IT uh rayt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "reiterate",
+  "id": "reiterate"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to move to a lower or less important position",
+  "examples": [
+   "After a terrible season, the team was *relegated* to a lower league.",
+   "The important finding was *relegated* to a footnote."
+  ],
+  "note": "In European soccer, *relegation* is being sent down a division.",
+  "pos": "v",
+  "pron": "REL uh gayt",
+  "pronFlag": false,
+  "word": "relegate",
+  "id": "relegate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "not stopping or easing; persistent",
+  "examples": [
+   "The *relentless* rain flooded the soccer field."
+  ],
+  "note": "Can be positive (*relentless effort*) or negative (*relentless criticism*, *relentless heat*). The core idea is that it never lets up.\nCompare *unremitting* (very similar) and *persistent* (milder).",
+  "pos": "adj",
+  "pron": "ri LENT lis",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "relentless",
+  "id": "relentless"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to give up; to let go of",
+  "examples": [
+   "The champion refused to *relinquish* her title without a fight."
+  ],
+  "note": "Neutral, often reluctant: you *relinquish* something you'd rather keep, like power, control, a title, or a grip.\nCompare *surrender* (give up to an opponent) and *waive* (give up a right voluntarily).",
+  "pos": "v",
+  "pron": "ri LING kwish",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "relinquish",
+  "id": "relinquish"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to protest; to argue against something",
+  "examples": [
+   "Parents *remonstrated* with the principal about the new dress code."
+  ],
+  "note": "Neutral to formal. A spoken, reasoned protest, usually to someone in authority. *Remonstrate with* someone *about* something.",
+  "pos": "v",
+  "pron": "ri MAHN strayt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "remonstrate",
+  "id": "remonstrate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a rebirth or revival",
+  "examples": [
+   "The old downtown is enjoying a *renaissance*, with new cafes and galleries."
+  ],
+  "note": "Positive. Revival after a period of decline: a city's, a genre's, a person's career.\nA *Renaissance man* or woman is skilled in many fields.",
+  "pos": "n",
+  "pron": "REN uh sahns",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "renaissance",
+  "id": "renaissance"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "a performance, interpretation, depiction, or translation",
+  "examples": [
+   "The pianist's *rendering* of the sonata was slower and darker than most."
+  ],
+  "note": "To *render* has many meanings: to give (*render* a service), to make (*rendered* speechless), and to perform or depict.",
+  "pos": "n",
+  "pron": "REN dur ing",
+  "pronFlag": false,
+  "word": "rendering",
+  "id": "rendering"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to give up formally; to reject",
+  "examples": [
+   "The prince *renounced* his claim to the throne."
+  ],
+  "note": "Neutral and formal; implies a deliberate, often public decision. *Renounce* citizenship, violence, a claim, worldly pleasures.\nCompare *recant* (take back what you said) and *abdicate* (give up a throne).\nThe noun is *renunciation*.",
+  "pos": "v",
+  "pron": "ri NOWNSE",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "renounce",
+  "id": "renounce"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "payment or action to make up for a wrong",
+  "examples": [
+   "The company paid *reparations* to the families affected by the spill."
+  ],
+  "note": "Usually plural and tied to serious wrongs: war damage, historical injustice. The connotation is moral repair, not just payment.\nOften used in the plural.",
+  "pos": "n",
+  "pron": "rep uh RAY shun",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "reparation",
+  "id": "reparation"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "an effect or result, often an unwelcome one",
+  "examples": [
+   "The scandal had *repercussions* for the whole government."
+  ],
+  "note": "Usually negative and plural. Effects that spread out after an event, like echoes.\nCompare *ramification* (branching consequences, more neutral).",
+  "pos": "n",
+  "pron": "ree pur KUSH un",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "repercussion",
+  "id": "repercussion"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to fill up again; to restock",
+  "examples": [
+   "Volunteers *replenished* the food bank's shelves before winter."
+  ],
+  "note": "Positive or neutral. Restoring something to fullness: supplies, energy, soil, a fish population.",
+  "pos": "v",
+  "pron": "ri PLEN ish",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "replenish",
+  "id": "replenish"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "fully supplied; filled",
+  "examples": [
+   "The essay was *replete* with spelling errors."
+  ],
+  "note": "Neutral. Full to the brim, sometimes too full. Almost always followed by *with*: *replete with errors*, *replete with details*.\nCompare *rife with*, which is used only for bad things.",
+  "pos": "adj",
+  "pron": "ri PLEET",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "replete",
+  "id": "replete"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "deserving blame or criticism",
+  "examples": [
+   "Cheating on the exam was *reprehensible*, not just against the rules."
+  ],
+  "note": "Strongly negative. It's a moral judgment, not just a rule violation. Common with *conduct*, *behavior*, *act*.",
+  "pos": "adj",
+  "pron": "rep ri HEN suh bul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "reprehensible",
+  "id": "reprehensible"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "an act of revenge or retaliation",
+  "examples": [
+   "Workers feared *reprisals* if they reported the safety problems."
+  ],
+  "note": "Negative. Retaliation, especially by a group or state, or by an employer against a whistleblower. Often *fear of reprisal*.",
+  "pos": "n",
+  "pron": "ri PRYE zul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "reprisal",
+  "id": "reprisal"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to express disappointment or disapproval to someone",
+  "examples": [
+   "Her mother *reproached* her for forgetting Grandma's birthday."
+  ],
+  "note": "Negative but softer than *rebuke*: it carries disappointment more than anger. A *reproachful* look says “I expected better.”\n*Beyond reproach* means flawless.",
+  "pos": "v",
+  "pron": "ri PROHCH",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "reproach",
+  "id": "reproach"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to scold gently; to correct",
+  "examples": [
+   "The librarian *reproved* the students for talking too loudly."
+  ],
+  "note": "Mild and often gentle; a teacher or parent correcting someone. The mildest of *reprove* < *reproach* < *rebuke*.\n*Reproof* is the noun.",
+  "pos": "v",
+  "pron": "ri PROOV",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "reprove",
+  "id": "reprove"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to reject; to refuse to accept or be associated with",
+  "examples": [
+   "The candidate *repudiated* the extreme views of some supporters."
+  ],
+  "note": "Strong and formal. A public rejection that cuts ties: *repudiate* a statement, a debt, an ally.\nCompare *disavow* (deny any connection with) and *renounce* (give up voluntarily).",
+  "pos": "v",
+  "pron": "ri PYOO dee ayt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "repudiate",
+  "id": "repudiate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "required; necessary",
+  "examples": [
+   "She had the *requisite* experience for the job."
+  ],
+  "note": "Neutral and formal; means what is needed for a specific purpose. *The requisite skills*, *the requisite paperwork*.\nA *prerequisite* is something required beforehand.",
+  "pos": "adj",
+  "pron": "REK wuh zit",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "requisite",
+  "id": "requisite"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "firmly determined; unwavering",
+  "examples": [
+   "Despite the criticism, the mayor remained *resolute*."
+  ],
+  "note": "Positive: admirable firmness. Its negative cousins are *obstinate* and *stubborn*.\nOn the SAT, *resolute* describes characters who stay determined despite pressure.\n*Resolve* and *resolution* both mean firm determination.",
+  "pos": "adj",
+  "pron": "REZ uh loot",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "resolute",
+  "id": "resolute"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a short break from something difficult",
+  "examples": [
+   "The cool evening brought a brief *respite* from the heat wave."
+  ],
+  "note": "Positive. A temporary break from something unpleasant, such as heat, pain, or work. It implies the hardship will return.",
+  "pos": "n",
+  "pron": "RES pit",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "respite",
+  "id": "respite"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "reluctant to speak; reserved",
+  "examples": [
+   "He was *reticent* about his private life, even with close friends."
+  ],
+  "note": "Neutral. It specifically means unwilling to speak or share, especially about oneself.\nIt is often misused to mean “reluctant” (*reticent to try*); the precise word there is *reluctant* or *hesitant*.",
+  "pos": "adj",
+  "pron": "RET uh sint",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "reticent",
+  "id": "reticent"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "taking effect from a date in the past",
+  "examples": [
+   "The pay raise was approved in March but made *retroactive* to January."
+  ],
+  "note": "*Retro-* means backward, as in *retrospect*.",
+  "pos": "adj",
+  "pron": "ret roh AK tiv",
+  "pronFlag": false,
+  "word": "retroactive",
+  "id": "retroactive"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to respect deeply; to honor",
+  "examples": [
+   "Students *revered* the old professor."
+  ],
+  "note": "Strongly positive, with a sense of awe. Stronger than *respect* or *admire*. You *revere* elders, saints, heroes, traditions.\nCompare *venerate* (almost the same, often religious) and *idolize* (excessive admiration).\n*Reverence* is deep respect. *Reverent* means showing it.",
+  "pos": "v",
+  "pron": "ri VEER",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "revere",
+  "id": "revere"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "to look over again in order to correct or improve",
+  "examples": [
+   "She *revised* her essay three times before submitting it."
+  ],
+  "note": "Compare *alter* (AWL tur), which means simply to change, with no suggestion of improvement. You *alter* a dress or *alter* your route. You *revise* an essay, an estimate, or an opinion after reconsidering it.",
+  "pos": "v",
+  "pron": "ri VYZE",
+  "pronFlag": false,
+  "word": "revise",
+  "id": "revise"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "the art of persuasive speaking or writing; also, showy language with little substance",
+  "examples": [
+   "The speech was full of *rhetoric* but short on actual plans."
+  ],
+  "note": "Two connotations. Neutral: the study or art of persuasion (*classical rhetoric*). Negative: empty or inflated talk (*mere rhetoric*, *campaign rhetoric*).\nSAT questions about an author's *rhetorical* choices use the neutral sense.",
+  "pos": "n",
+  "pron": "RET ur ik",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "rhetoric",
+  "id": "rhetoric"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "extremely thorough and strict; demanding",
+  "examples": [
+   "The program has a *rigorous* admissions process."
+  ],
+  "note": "Positive in academics and science: thorough, careful, demanding. It can be negative when it means harsh (*a rigorous climate*).",
+  "pos": "adj",
+  "pron": "RIG ur us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "rigorous",
+  "id": "rigorous"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "strong and healthy; sturdy",
+  "examples": [
+   "The economy remained *robust* despite the trade dispute."
+  ],
+  "note": "Positive. Strong and able to withstand stress. In science, a *robust* result holds up under different tests or conditions.",
+  "pos": "adj",
+  "pron": "roh BUST",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "robust",
+  "id": "robust"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a dishonest or mischievous person; something that acts independently and out of control",
+  "examples": [
+   "A *rogue* employee leaked the files.",
+   "The charming *rogue* in the novel steals from the rich."
+  ],
+  "note": "As an adjective (*rogue state*, *rogue employee*, *rogue wave*), it means out of control and acting outside the rules.\nAs a noun it can be affectionate (*a lovable rogue*) or negative (*a dishonest rogue*).",
+  "pos": "n",
+  "pron": "rohg",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "rogue",
+  "id": "rogue"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "basic; elementary; undeveloped",
+  "examples": [
+   "I have only a *rudimentary* knowledge of Spanish."
+  ],
+  "note": "Neutral to slightly negative. Basic, undeveloped, or primitive. A *rudimentary* understanding is enough to start, not enough to master.\n*Rudiments* are the basics of a subject.",
+  "pos": "adj",
+  "pron": "roo duh MEN tuh ree",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "rudimentary",
+  "id": "rudimentary"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to think deeply and at length",
+  "examples": [
+   "She *ruminated* on the question all weekend before deciding."
+  ],
+  "note": "Neutral to slightly negative. Deep thought that can tip into brooding. Psychologists use *rumination* for repetitive, anxious thinking.\nCompare *ponder* and *mull over* (calmer).\nCows *ruminate* in a literal sense: they chew their food again and again.",
+  "pos": "v",
+  "pron": "ROO muh nayt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "ruminate",
+  "id": "ruminate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "having to do with the countryside; simple and rough",
+  "examples": [
+   "The *rustic* cabin had no electricity."
+  ],
+  "note": "Positive (charming, simple country life) or negative (crude, unsophisticated), depending on context. Opposite: *urbane*.",
+  "pos": "adj",
+  "pron": "RUS tik",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "rustic",
+  "id": "rustic"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "overly sweet or sentimental",
+  "examples": [
+   "The movie's *saccharine* ending made some viewers roll their eyes."
+  ],
+  "note": "Negative. Sweet in a fake or sickening way, usually about sentimental art, speeches, or smiles.\nCompare *sentimental* (milder) and *mawkish* (sentimental to the point of disgust).\n*Saccharin* (no final e) is an artificial sweetener.",
+  "pos": "adj",
+  "pron": "SAK uh rin",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "saccharine",
+  "id": "saccharine"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "disrespect toward something sacred or highly valued",
+  "examples": [
+   "To some fans, changing the team's colors was *sacrilege*."
+  ],
+  "note": "Literal: disrespect toward something religious. Figurative and often humorous: disrespect toward anything someone treasures.\nThe adjective is *sacrilegious* (sak ruh LIJ us).",
+  "pos": "n",
+  "pron": "SAK ruh lij",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sacrilege",
+  "id": "sacrilege"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "too important or holy to be criticized or changed",
+  "examples": [
+   "In that family, Sunday dinner is *sacrosanct*."
+  ],
+  "note": "Neutral, sometimes ironic. Something treated as untouchable. Writers often use it to suggest a rule shouldn't be beyond question.",
+  "pos": "adj",
+  "pron": "SAK roh sangkt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sacrosanct",
+  "id": "sacrosanct"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "wise; showing good judgment",
+  "examples": [
+   "The *sagacious* investor saw the crash coming."
+  ],
+  "note": "Strongly positive. Wisdom grounded in experience and keen judgment.\nCompare *shrewd* (practical cleverness, sometimes calculating) and *astute* (sharp at noticing).\n*Sagacity* is wisdom. A *sage* is a wise person.",
+  "pos": "adj",
+  "pron": "suh GAY shus",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sagacious",
+  "id": "sagacious"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "most noticeable or important",
+  "examples": [
+   "The lawyer summarized the *salient* facts of the case."
+  ],
+  "note": "Neutral. The point or feature that stands out most. Very common in academic writing: *the salient points*, *salient features*.",
+  "pos": "adj",
+  "pron": "SAYL yunt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "salient",
+  "id": "salient"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "having a good effect; beneficial",
+  "examples": [
+   "Losing early in the season had a *salutary* effect on the team's work ethic."
+  ],
+  "note": "Positive, but often used for an unpleasant experience that turned out to be good for you: *a salutary lesson*, *a salutary warning*.\nDon't confuse it with *salubrious* (healthy, especially climate).\nOften used for unpleasant experiences that turn out to be good for you.",
+  "pos": "adj",
+  "pron": "SAL yuh ter ee",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "salutary",
+  "id": "salutary"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "acting morally superior; self-righteous",
+  "examples": [
+   "His *sanctimonious* lecture about recycling annoyed everyone."
+  ],
+  "note": "Strongly negative. Making a show of moral superiority. It's about how someone acts, not whether they're actually good.\nCompare *self-righteous* (similar) and *pious* (genuinely religious, though sometimes used sarcastically).",
+  "pos": "adj",
+  "pron": "sangk tuh MOH nee us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sanctimonious",
+  "id": "sanctimonious"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "cheerfully optimistic",
+  "examples": [
+   "Despite the bad forecast, the organizers were *sanguine* about the outdoor event."
+  ],
+  "note": "Positive. Calm optimism, especially in difficult circumstances. A *sanguine* outlook.\nIts literal Latin root means blood, as in an old belief that blood produced cheerfulness.\nDon't confuse it with *sanguinary*, which means bloody.",
+  "pos": "adj",
+  "pron": "SANG gwin",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sanguine",
+  "id": "sanguine"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "mocking in a bitter or cynical way",
+  "examples": [
+   "He gave a *sardonic* laugh when told the bus would be on time."
+  ],
+  "note": "Negative. Humor that is grimly mocking or scornful.\nCompare *sarcastic* (saying the opposite of what you mean to wound) and *wry* (dry, gently ironic, milder).",
+  "pos": "adj",
+  "pron": "sahr DAHN ik",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sardonic",
+  "id": "sardonic"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to sparkle; to be lively and clever",
+  "examples": [
+   "The host *scintillated* at the dinner party."
+  ],
+  "note": "Positive. Literally sparkling; figuratively brilliant and witty. Most often used as *scintillating conversation*.",
+  "pos": "v",
+  "pron": "SIN tuh layt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "scintillate",
+  "id": "scintillate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "very careful to do things correctly or honestly",
+  "examples": [
+   "She kept *scrupulous* records of every expense."
+  ],
+  "note": "Positive. Two senses: very careful (*scrupulous attention to detail*) and morally principled (*scrupulously honest*).\n*Unscrupulous* is strongly negative: willing to do anything.",
+  "pos": "adj",
+  "pron": "SKROO pyuh lus",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "scrupulous",
+  "id": "scrupulous"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to examine closely",
+  "examples": [
+   "The editor *scrutinized* every sentence for errors."
+  ],
+  "note": "Neutral. Implies close, critical examination, often looking for flaws. *Under scrutiny* suggests pressure.",
+  "pos": "v",
+  "pron": "SKROOT uh nyze",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "scrutinize",
+  "id": "scrutinize"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "not religious; worldly",
+  "examples": [
+   "The school teaches a *secular* curriculum."
+  ],
+  "note": "Neutral. Not connected to religion. Not anti-religious, just separate from it: *secular* government, music, holidays.",
+  "pos": "adj",
+  "pron": "SEK yuh lur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "secular",
+  "id": "secular"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "speech or action urging rebellion against a government",
+  "examples": [
+   "The writer was jailed for *sedition*."
+  ],
+  "note": "Negative from the government's view; it's a legal charge. Historically used to silence critics, so writers sometimes use it ironically.\nCompare *treason* (betraying one's country, more serious).\n*Seditious* is the adjective.",
+  "pos": "n",
+  "pron": "si DISH un",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sedition",
+  "id": "sedition"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to separate or keep apart",
+  "examples": [
+   "The recycling center *segregates* glass from plastic."
+  ],
+  "note": "Neutral in technical contexts (segregating waste). Strongly negative when about people, because of its history with racial segregation.\nOpposite: *integrate*.",
+  "pos": "v",
+  "pron": "SEG ruh gayt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "segregate",
+  "id": "segregate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "having to do with the senses",
+  "examples": [
+   "The museum offers a *sensory* exhibit you can touch and smell."
+  ],
+  "note": "Neutral and technical. Relating to sight, hearing, touch, taste, or smell. *Sensory overload*, *sensory details* in writing.",
+  "pos": "adj",
+  "pron": "SEN suh ree",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sensory",
+  "id": "sensory"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "able to feel or perceive",
+  "examples": [
+   "Philosophers debate whether machines could ever be *sentient*."
+  ],
+  "note": "Neutral. Able to feel and perceive, not necessarily to reason. Common in debates about animals and AI.\nCompare *sapient* (wise, able to reason).",
+  "pos": "adj",
+  "pron": "SEN shunt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sentient",
+  "id": "sentient"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to set apart; to isolate",
+  "examples": [
+   "The jury was *sequestered* in a hotel during the trial."
+  ],
+  "note": "Neutral. To isolate on purpose: juries, oneself, or carbon (*carbon sequestration*, storing carbon to keep it from the air).",
+  "pos": "v",
+  "pron": "si KWES tur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sequester",
+  "id": "sequester"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "the luck of finding good things by accident",
+  "examples": [
+   "By *serendipity*, she met her future business partner on a delayed train."
+  ],
+  "note": "Positive. A happy accident, especially a discovery. Stories about penicillin or Post-it Notes are classic examples.\n*Serendipitous* is the adjective.",
+  "pos": "n",
+  "pron": "ser un DIP uh tee",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "serendipity",
+  "id": "serendipity"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "too eager to obey or please; slavish",
+  "examples": [
+   "His *servile* attitude toward the boss annoyed his coworkers."
+  ],
+  "note": "Negative. Behaving like a servant out of a lack of self-respect.\nCompare *obsequious* (eager to please), *sycophantic* (flattering for gain), *subservient* (submissive). All negative.",
+  "pos": "adj",
+  "pron": "SUR vyle",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "servile",
+  "id": "servile"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "a reversal or obstacle that slows progress",
+  "examples": [
+   "The injury was a *setback*, but she was back on the field within a month."
+  ],
+  "note": "A *setback* is not a *failure*. After a *setback*, recovery is still possible; a *failure* means the effort did not succeed.",
+  "pos": "n",
+  "pron": "SET bak",
+  "pronFlag": false,
+  "word": "setback",
+  "id": "setback"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "unique; remarkable; also, single",
+  "examples": [
+   "She showed *singular* courage during the rescue."
+  ],
+  "note": "Formal. It means remarkable or exceptional, not just “one.” *A singular achievement* is extraordinary.",
+  "pos": "adj",
+  "pron": "SING gyuh lur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "singular",
+  "id": "singular"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "threatening; suggesting evil",
+  "examples": [
+   "A *sinister* figure waited at the end of the dark alley."
+  ],
+  "note": "Negative. Suggests hidden danger or evil intent. Its Latin root means left, once considered unlucky.",
+  "pos": "adj",
+  "pron": "SIN ih stur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sinister",
+  "id": "sinister"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to say false things that damage someone's reputation",
+  "examples": [
+   "The senator sued the blogger for *slandering* her."
+  ],
+  "note": "Negative and legal. False spoken statements that damage reputation. Written ones are *libel*; both fall under *defamation*.\n*Slander* is spoken; *libel* is written.",
+  "pos": "v",
+  "pron": "SLAN dur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "slander",
+  "id": "slander"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "laziness",
+  "examples": [
+   "*Sloth* kept him on the couch all summer."
+  ],
+  "note": "Negative. Laziness as a moral failing; one of the seven deadly sins. More literary than *laziness*.\n*Slothful* means lazy. The animal is named for its slow movement.",
+  "pos": "n",
+  "pron": "slawth",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sloth",
+  "id": "sloth"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "the state of being sober; seriousness",
+  "examples": [
+   "The *sobriety* of the ceremony silenced the usually noisy students."
+  ],
+  "note": "Neutral. Literally not being drunk; figuratively seriousness and restraint. *The sobriety of the occasion*.",
+  "pos": "n",
+  "pron": "suh BRYE uh tee",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sobriety",
+  "id": "sobriety"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "showing concern or care; attentive",
+  "examples": [
+   "The nurse was *solicitous* of every patient's comfort."
+  ],
+  "note": "Positive, but can tip into overattentive. *Solicitous of* or *solicitous about* someone's needs.\nUnrelated to *soliciting* customers.\n*Solicitude* is caring attention.",
+  "pos": "adj",
+  "pron": "suh LIS uh tus",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "solicitous",
+  "id": "solicitous"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "able to pay all debts",
+  "examples": [
+   "After years of losses, the company was finally *solvent*."
+  ],
+  "note": "Neutral and financial. Able to pay debts. *Insolvent* means unable to pay.\nIn chemistry, a *solvent* dissolves a *solute*.",
+  "pos": "adj",
+  "pron": "SAHL vunt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "solvent",
+  "id": "solvent"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "causing sleep; boring",
+  "examples": [
+   "The *soporific* lecture had half the class nodding off."
+  ],
+  "note": "Negative when describing lectures, speeches, or books (boring enough to sleep through). Neutral for drugs that cause sleep.",
+  "pos": "adj",
+  "pron": "sahp uh RIF ik",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "soporific",
+  "id": "soporific"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "dirty; morally low; shameful",
+  "examples": [
+   "The tabloid printed every *sordid* detail of the scandal."
+  ],
+  "note": "Negative. Combines physical dirtiness with moral ugliness. *Sordid details*, *sordid affair*.",
+  "pos": "adj",
+  "pron": "SOR did",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sordid",
+  "id": "sordid"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to produce; to give rise to",
+  "examples": [
+   "The hit movie *spawned* three sequels."
+  ],
+  "note": "Neutral. Produce in large numbers, often things that multiply: sequels, imitators, controversies.\nFish and frogs literally *spawn* by laying eggs.",
+  "pos": "v",
+  "pron": "spawn",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "spawn",
+  "id": "spawn"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "seeming true or correct but actually false",
+  "examples": [
+   "His argument was *specious*: it sounded logical but rested on a false fact."
+  ],
+  "note": "Negative. Plausible on the surface but wrong underneath. Common in arguments and reasoning questions.\nCompare *spurious* (false or fake, not necessarily convincing).",
+  "pos": "adj",
+  "pron": "SPEE shus",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "specious",
+  "id": "specious"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "happening at irregular intervals; scattered",
+  "examples": [
+   "*Sporadic* showers interrupted the outdoor concert, but the orchestra kept playing."
+  ],
+  "note": "*Sporadic* comes from a Greek word for scattered, the same root as *spore*.",
+  "pos": "adj",
+  "pron": "spuh RAD ik",
+  "pronFlag": false,
+  "word": "sporadic",
+  "id": "sporadic"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "false; fake; not genuine",
+  "examples": [
+   "The website made *spurious* claims about the vitamin's effects."
+  ],
+  "note": "Negative. False or fake. In science, a *spurious correlation* is a statistical link with no real cause behind it.\n*Specious* = looks true but isn't; *spurious* = simply not genuine.",
+  "pos": "adj",
+  "pron": "SPYOOR ee us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "spurious",
+  "id": "spurious"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "filth and misery",
+  "examples": [
+   "The family lived in *squalor* after losing everything."
+  ],
+  "note": "Strongly negative. Filth combined with poverty and neglect. Usually describes living conditions.\n*Squalid* is the adjective.",
+  "pos": "n",
+  "pron": "SKWAHL ur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "squalor",
+  "id": "squalor"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to waste carelessly",
+  "examples": [
+   "He *squandered* his savings on lottery tickets."
+  ],
+  "note": "Negative. Wasteful spending of money, time, talent, or opportunity, implying it could have been used well.",
+  "pos": "v",
+  "pron": "SKWAHN dur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "squander",
+  "id": "squander"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a lack of movement, growth, or development",
+  "examples": [
+   "Years of economic *stagnation* left many towns empty."
+  ],
+  "note": "Negative. Lack of growth or progress, especially in economies, careers, or ideas.\nCompare *static* (not moving, neutral) and *inertia* (resistance to change).\n*Stagnant* water doesn't flow.",
+  "pos": "n",
+  "pron": "stag NAY shun",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "stagnation",
+  "id": "stagnation"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "not moving or changing",
+  "examples": [
+   "Population in the village has been *static* for decades."
+  ],
+  "note": "Neutral. Not changing. Often contrasted with *dynamic* in literature: a *static character* doesn't change over the story.",
+  "pos": "adj",
+  "pron": "STAT ik",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "static",
+  "id": "static"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "loyal and committed",
+  "examples": [
+   "She was a *staunch* supporter of the school orchestra."
+  ],
+  "note": "Positive. Loyal and firm in support. Common with *supporter*, *ally*, *defender*, *opponent*.\nCompare *steadfast* (almost identical) and *zealous* (enthusiastic, maybe too much).\nAs a verb, *stanch* or *staunch* means to stop a flow, as of blood.",
+  "pos": "adj",
+  "pron": "stawnch",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "staunch",
+  "id": "staunch"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "firmly loyal; unwavering",
+  "examples": [
+   "The dog remained *steadfast* at his owner's side."
+  ],
+  "note": "Positive. Unwavering loyalty or determination. More literary than *loyal*.",
+  "pos": "adj",
+  "pron": "STED fast",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "steadfast",
+  "id": "steadfast"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to mark as shameful or disgraceful",
+  "examples": [
+   "Doctors worry that labels can *stigmatize* patients."
+  ],
+  "note": "Negative. Treating a trait or group as shameful, often unfairly. Common with mental illness, poverty, disease.\nA *stigma* is a mark of disgrace.",
+  "pos": "v",
+  "pron": "STIG muh tyze",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "stigmatize",
+  "id": "stigmatize"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to state clearly as a condition or requirement",
+  "examples": [
+   "The contract *stipulates* that payment is due in 30 days."
+  ],
+  "note": "Neutral and formal. Used for contracts, laws, and agreements. *The rules stipulate that...*\nA *stipulation* is such a condition.",
+  "pos": "v",
+  "pron": "STIP yuh layt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "stipulate",
+  "id": "stipulate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "showing no reaction to pain or hardship",
+  "examples": [
+   "She remained *stoic* through the long recovery."
+  ],
+  "note": "Positive or neutral. Enduring pain without complaint. Sometimes slightly negative, suggesting emotional coldness.\nCompare *impassive* (showing no emotion) and *phlegmatic* (calm by temperament).\nFrom the Stoics, Greek philosophers who taught calm acceptance.",
+  "pos": "adj",
+  "pron": "STOH ik",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "stoic",
+  "id": "stoic"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a layer, as of rock or society",
+  "examples": [
+   "Each *stratum* of rock records a different era."
+  ],
+  "note": "Neutral. A layer: rock, atmosphere, society. Plural *strata*, a common error point.\n*Stratified* means arranged in layers or social classes.",
+  "pos": "n",
+  "pron": "STRAT um",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "stratum",
+  "id": "stratum"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a limit or restriction; a sharp criticism",
+  "examples": [
+   "The *strictures* on travel made the trip impossible."
+  ],
+  "note": "Negative. A restriction or a severe criticism. Often plural: *the strictures of the dress code*.",
+  "pos": "n",
+  "pron": "STRIK chur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "stricture",
+  "id": "stricture"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "bitter conflict",
+  "examples": [
+   "The country was torn by civil *strife*."
+  ],
+  "note": "Negative. Intense, often prolonged conflict. *Civil strife*, *domestic strife*.",
+  "pos": "n",
+  "pron": "stryfe",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "strife",
+  "id": "strife"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "strict; severe",
+  "examples": [
+   "The lab has *stringent* safety rules."
+  ],
+  "note": "Neutral to negative. Strict and precise, with little room for exceptions. *Stringent standards*, *stringent regulations*.",
+  "pos": "adj",
+  "pron": "STRIN junt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "stringent",
+  "id": "stringent"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to block; to thwart",
+  "examples": [
+   "Heavy snow *stymied* the rescue effort."
+  ],
+  "note": "Negative. To block or frustrate progress. It comes from golf, where a ball blocks another's path to the hole.",
+  "pos": "v",
+  "pron": "STYE mee",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "stymie",
+  "id": "stymie"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to bring under control; to conquer",
+  "examples": [
+   "The empire *subjugated* its neighbors."
+  ],
+  "note": "Strongly negative. To conquer and dominate completely, removing freedom.\nCompare *subdue* (bring under control, milder) and *oppress* (rule harshly).",
+  "pos": "v",
+  "pron": "SUB juh gayt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "subjugate",
+  "id": "subjugate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "of such beauty or greatness that it inspires awe",
+  "examples": [
+   "The view from the summit was *sublime*."
+  ],
+  "note": "Strongly positive. Beauty so great it inspires awe. Used for nature, art, and music.\nThe Romantic poets used *the sublime* for beauty mixed with a sense of overwhelming power.",
+  "pos": "adj",
+  "pron": "suh BLYME",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sublime",
+  "id": "sublime"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "lower in rank or importance",
+  "examples": [
+   "Every officer was *subordinate* to the general."
+  ],
+  "note": "Neutral. Lower in rank or importance. In grammar, a *subordinate clause* can't stand alone.",
+  "pos": "adj",
+  "pron": "suh BOR duh nit",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "subordinate",
+  "id": "subordinate"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "too eager to obey; submissive; also, less important",
+  "examples": [
+   "The *subservient* assistant agreed with everything his boss said.",
+   "In that school, sports were *subservient to* academics."
+  ],
+  "note": "",
+  "pos": "adj",
+  "pron": "sub SUR vee unt",
+  "pronFlag": false,
+  "word": "subservient",
+  "id": "subservient"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "having real substance; meaningful",
+  "examples": [
+   "The meeting produced no *substantive* changes."
+  ],
+  "note": "Positive. Real, meaningful, having substance. Opposite of *superficial* or *cosmetic*.",
+  "pos": "adj",
+  "pron": "SUB stan tiv",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "substantive",
+  "id": "substantive"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "not obvious; delicate; hard to notice",
+  "examples": [
+   "There was a *subtle* difference between the two shades of blue."
+  ],
+  "note": "Usually positive: delicate, refined, perceptive. Can be negative: sly or hard to detect.\nOn the SAT, *subtle* tone shifts are often what questions ask about.\nThe b is silent. *Subtlety* is the noun.",
+  "pos": "adj",
+  "pron": "SUT ul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "subtle",
+  "id": "subtle"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "intended to undermine an established system",
+  "examples": [
+   "The government banned the *subversive* pamphlets."
+  ],
+  "note": "Negative from authority's view; can be positive when describing art that challenges power. Context decides.\nTo *subvert* is to undermine.",
+  "pos": "adj",
+  "pron": "sub VUR siv",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "subversive",
+  "id": "subversive"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "brief and clear",
+  "examples": [
+   "Her *succinct* answer said everything in one sentence."
+  ],
+  "note": "Positive. Brief and clear. Compare *terse* (brief, possibly rude) and *laconic* (using very few words).",
+  "pos": "adj",
+  "pron": "suk SINGKT",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "succinct",
+  "id": "succinct"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to give in; to yield",
+  "examples": [
+   "After an hour, he *succumbed* to temptation and ate the cake."
+  ],
+  "note": "Neutral to negative. Giving in to a stronger force: temptation, pressure, illness. *Succumb to* is the usual pattern.",
+  "pos": "v",
+  "pron": "suh KUM",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "succumb",
+  "id": "succumb"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "behaving as if one is superior; haughty",
+  "examples": [
+   "The *supercilious* waiter sneered at our order."
+  ],
+  "note": "Negative. Arrogantly disdainful. Its Latin root is eyebrow, as in raised eyebrows.\nCompare *condescending* (talking down) and *haughty* (proud).",
+  "pos": "adj",
+  "pron": "soo pur SIL ee us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "supercilious",
+  "id": "supercilious"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "on the surface only; shallow",
+  "examples": [
+   "The cut was *superficial* and healed in days.",
+   "His knowledge of the subject was *superficial*."
+  ],
+  "note": "Negative when about character or understanding (shallow). Neutral for wounds or surfaces.",
+  "pos": "adj",
+  "pron": "soo pur FISH ul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "superficial",
+  "id": "superficial"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "more than needed; unnecessary",
+  "examples": [
+   "Cut every *superfluous* word from your essay."
+  ],
+  "note": "Negative. More than needed. Often used for words, details, or decorations that could be cut.",
+  "pos": "adj",
+  "pron": "soo PUR floo us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "superfluous",
+  "id": "superfluous"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "an excessive amount",
+  "examples": [
+   "A *surfeit* of candy left the children sick."
+  ],
+  "note": "Negative. Too much of something, to the point of excess. Compare *dearth* (too little).",
+  "pos": "n",
+  "pron": "SUR fit",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "surfeit",
+  "id": "surfeit"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "done secretly",
+  "examples": [
+   "She cast a *surreptitious* glance at her phone during the test."
+  ],
+  "note": "Neutral to negative. Secret because it's not allowed. A *surreptitious glance*.\nCompare *clandestine* (secret and organized, often illegal) and *covert* (hidden, often official).",
+  "pos": "adj",
+  "pron": "sur up TISH us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "surreptitious",
+  "id": "surreptitious"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "serving as a substitute",
+  "examples": [
+   "Her older brother acted as a *surrogate* father."
+  ],
+  "note": "Neutral. A substitute standing in for something else. A *surrogate mother*, *surrogate measure* (in science, an indirect indicator).\nAlso a noun: a substitute.",
+  "pos": "adj",
+  "pron": "SUR uh git",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "surrogate",
+  "id": "surrogate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a person who flatters powerful people to gain favor",
+  "examples": [
+   "The king was surrounded by *sycophants* who praised every decision."
+  ],
+  "note": "Strongly negative. Someone who flatters to gain favor.\nCompare *toady* and *bootlicker* (informal, same idea).\n*Sycophantic* is the adjective.",
+  "pos": "n",
+  "pron": "SIK uh funt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "sycophant",
+  "id": "sycophant"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "the combination of parts into a whole",
+  "examples": [
+   "Her theory was a *synthesis* of ideas from biology and economics."
+  ],
+  "note": "Positive. Combining different elements into a new, coherent whole. Opposite of *analysis* (breaking down).\nTo *synthesize* is to combine.",
+  "pos": "n",
+  "pron": "SIN thuh sis",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "synthesis",
+  "id": "synthesis"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "understood without being said",
+  "examples": [
+   "There was a *tacit* agreement not to mention the accident."
+  ],
+  "note": "Neutral. Understood without being said. *Tacit approval*, *tacit agreement*.",
+  "pos": "adj",
+  "pron": "TAS it",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tacit",
+  "id": "tacit"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "habitually quiet; not talkative",
+  "examples": [
+   "The *taciturn* farmer answered with a single nod."
+  ],
+  "note": "Neutral to slightly negative. Habitually silent by temperament.\nCompare *reticent* (unwilling to share) and *laconic* (brief in speech).",
+  "pos": "adj",
+  "pron": "TAS i turn",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "taciturn",
+  "id": "taciturn"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "a sudden change of subject; a digression",
+  "examples": [
+   "Our history teacher often goes off on *tangents* about his college days."
+  ],
+  "note": "In geometry, a *tangent* line touches a curve at one point and then heads off in its own direction. A conversational *tangent* does the same thing.\n*Tangential* means only slightly related.",
+  "pos": "n",
+  "pron": "TAN junt",
+  "pronFlag": false,
+  "word": "tangent",
+  "id": "tangent"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "only slightly related; off the main point",
+  "examples": [
+   "His comments were *tangential* to the real issue."
+  ],
+  "note": "Neutral to negative. Only loosely related to the main point. In writing, *tangential* details distract.",
+  "pos": "adj",
+  "pron": "tan JEN shul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tangential",
+  "id": "tangential"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "able to be touched; real and concrete",
+  "examples": [
+   "The new policy produced *tangible* results within a month."
+  ],
+  "note": "Positive in arguments: real, concrete, measurable. Opposite: *intangible* (like goodwill or morale).",
+  "pos": "adj",
+  "pron": "TAN juh bul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tangible",
+  "id": "tangible"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "equivalent in effect",
+  "examples": [
+   "Refusing to answer was *tantamount* to admitting guilt."
+  ],
+  "note": "Neutral. Equivalent in effect, often used to call something extreme: *tantamount to theft*.",
+  "pos": "adj",
+  "pron": "TAN tuh mownt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tantamount",
+  "id": "tantamount"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "needlessly repeating the same idea in different words",
+  "examples": [
+   "“It is what it is” is a *tautological* statement."
+  ],
+  "note": "Negative. Saying the same thing twice in different words. In logic, a statement true by definition.\nA *tautology* is such a statement.",
+  "pos": "adj",
+  "pron": "tawt uh LAH juh kul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tautological",
+  "id": "tautological"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "reckless boldness; nerve",
+  "examples": [
+   "He had the *temerity* to ask for a raise on his first day."
+  ],
+  "note": "Negative. Reckless boldness, often disrespectful. *Had the temerity to...*\nCompare *audacity* (can be positive) and *gall* (informal, rude nerve).",
+  "pos": "n",
+  "pron": "tuh MER uh tee",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "temerity",
+  "id": "temerity"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "moderate; mild",
+  "examples": [
+   "Korea has a *temperate* climate with four distinct seasons."
+  ],
+  "note": "Positive. Moderate and controlled, in climate or behavior. Opposite: *intemperate*.",
+  "pos": "adj",
+  "pron": "TEM pur it",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "temperate",
+  "id": "temperate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "able to be defended or maintained",
+  "examples": [
+   "Her argument was no longer *tenable* after the new evidence."
+  ],
+  "note": "Neutral. Able to be defended or held. *A tenable position*. Its opposite, *untenable*, is more common.",
+  "pos": "adj",
+  "pron": "TEN uh bul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tenable",
+  "id": "tenable"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "persistent; holding firmly; not giving up",
+  "examples": [
+   "The *tenacious* goalie refused to let a single shot through in the final quarter."
+  ],
+  "note": "*Tenacity* is the quality of being *tenacious*.",
+  "pos": "adj",
+  "pron": "tuh NAY shus",
+  "pronFlag": false,
+  "word": "tenacious",
+  "id": "tenacious"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a principle or belief",
+  "examples": [
+   "Honesty is a central *tenet* of the school's honor code."
+  ],
+  "note": "Neutral. A core principle of a belief system or organization. Don't confuse it with *tenant* (someone renting).",
+  "pos": "n",
+  "pron": "TEN it",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tenet",
+  "id": "tenet"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "not certain or final; hesitant",
+  "examples": [
+   "We made *tentative* plans to meet on Saturday."
+  ],
+  "note": "Neutral. Not yet certain or final. *Tentative* plans or results can still change.\nSee *tentatively*.",
+  "pos": "adj",
+  "pron": "TEN tuh tiv",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tentative",
+  "id": "tentative"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "hesitantly; provisionally; not definitely",
+  "examples": [
+   "She *tentatively* raised her hand, unsure whether her answer was right.",
+   "The meeting is *tentatively* set for Friday."
+  ],
+  "note": "A *tentative* plan is not final yet. A *tentative* step is a cautious one.",
+  "pos": "adv",
+  "pron": "TEN tuh tiv lee",
+  "pronFlag": false,
+  "word": "tentatively",
+  "id": "tentatively"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "weak; flimsy; slight",
+  "examples": [
+   "The connection between the two events was *tenuous* at best."
+  ],
+  "note": "Negative. Weak and thin, easily broken. *A tenuous connection*, *tenuous grasp*.",
+  "pos": "adj",
+  "pron": "TEN yoo us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tenuous",
+  "id": "tenuous"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "brief, often to the point of rudeness",
+  "examples": [
+   "His *terse* reply was simply “No.”"
+  ],
+  "note": "Neutral to negative. Brief and abrupt, sometimes rude. Compare *succinct* (positive).",
+  "pos": "adj",
+  "pron": "turs",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "terse",
+  "id": "terse"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "the study of religion and the nature of God",
+  "examples": [
+   "She studied *theology* before becoming a historian."
+  ],
+  "note": "Neutral. The systematic study of religion and the divine. Different from *religion* itself.",
+  "pos": "n",
+  "pron": "thee AHL uh jee",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "theology",
+  "id": "theology"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a long, angry speech",
+  "examples": [
+   "The coach launched into a *tirade* about the referee."
+  ],
+  "note": "Negative. A long, angry, often one-sided speech. Compare *diatribe* (bitter written or spoken attack).",
+  "pos": "n",
+  "pron": "TYE rayd",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tirade",
+  "id": "tirade"
+ },
+ {
+  "added": "2026-10-19T01:00:00Z",
+  "def": "the physical features of an area; the arrangement of hills, rivers, and valleys",
+  "examples": [
+   "The rugged *topography* of the Taebaek Mountains made the new highway expensive to build."
+  ],
+  "note": "A *topographic* map uses contour lines to show how high or low the land is.\nThe word can be used figuratively, too. A novelist might explore the *topography* of a character's mind.",
+  "pos": "n",
+  "pron": "tuh PAHG ruh fee",
+  "pronFlag": false,
+  "word": "topography",
+  "id": "topography"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "sluggishness; inactivity",
+  "examples": [
+   "The summer heat left the town in a *torpor*."
+  ],
+  "note": "Negative. Physical or mental sluggishness. In biology, a state of reduced activity in animals.\n*Torpid* is the adjective.",
+  "pos": "n",
+  "pron": "TOR pur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "torpor",
+  "id": "torpor"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a standard by which something is judged",
+  "examples": [
+   "For many writers, Shakespeare is the *touchstone* of English drama."
+  ],
+  "note": "Positive. A standard of quality. It comes from a stone used to test gold.",
+  "pos": "n",
+  "pron": "TUCH stohn",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "touchstone",
+  "id": "touchstone"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to promote or praise loudly",
+  "examples": [
+   "The ads *touted* the phone's battery life."
+  ],
+  "note": "Neutral to slightly negative. Promoting loudly, often exaggerating. *Touted as the next big thing*.",
+  "pos": "v",
+  "pron": "towt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "tout",
+  "id": "tout"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to go beyond the limits of",
+  "examples": [
+   "Great music *transcends* language."
+  ],
+  "note": "Positive. Going beyond normal limits. *Transcends genre*, *transcends borders*.\n*Transcendent* means going beyond ordinary experience.",
+  "pos": "v",
+  "pron": "tran SEND",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "transcend",
+  "id": "transcend"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to break a rule or law; to go beyond a limit",
+  "examples": [
+   "Students who *transgress* the honor code face suspension."
+  ],
+  "note": "Negative. Breaking a rule or moral boundary. A *transgression* is the act.",
+  "pos": "v",
+  "pron": "trans GRES",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "transgress",
+  "id": "transgress"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "lasting only a short time; passing",
+  "examples": [
+   "The pain was *transient* and gone by morning."
+  ],
+  "note": "Neutral. Lasting only briefly. Compare *ephemeral* (very short-lived, often poetic) and *fleeting*.\nA *transient* can also be a person who moves from place to place.",
+  "pos": "adj",
+  "pron": "TRAN shunt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "transient",
+  "id": "transient"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "fear; nervous anticipation",
+  "examples": [
+   "She opened the envelope with *trepidation*."
+  ],
+  "note": "Negative. Fear mixed with nervous anticipation. *Approach with trepidation*.",
+  "pos": "n",
+  "pron": "trep uh DAY shun",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "trepidation",
+  "id": "trepidation"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "wickedness; depravity",
+  "examples": [
+   "The official was fired for moral *turpitude*."
+  ],
+  "note": "Strongly negative and formal. Used mainly in *moral turpitude*, a legal phrase for serious wrongdoing.",
+  "pos": "n",
+  "pron": "TUR puh tood",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "turpitude",
+  "id": "turpitude"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "being everywhere at once",
+  "examples": [
+   "Smartphones have become *ubiquitous*."
+  ],
+  "note": "Neutral. Present everywhere, often so common it goes unnoticed.",
+  "pos": "adj",
+  "pron": "yoo BIK wuh tus",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "ubiquitous",
+  "id": "ubiquitous"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "shockingly unfair or wrong",
+  "examples": [
+   "Charging that much for water during the disaster was *unconscionable*."
+  ],
+  "note": "Strongly negative. So unfair it shocks the conscience. Used in law for unfair contracts.",
+  "pos": "adj",
+  "pron": "un KAHN shuh nuh bul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "unconscionable",
+  "id": "unconscionable"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "excessively smooth or flattering in a fake way",
+  "examples": [
+   "The *unctuous* salesman kept complimenting our taste."
+  ],
+  "note": "Negative. Insincerely smooth and flattering. Its literal meaning is oily.\nLiterally, *unctuous* means oily.",
+  "pos": "adj",
+  "pron": "UNGK choo us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "unctuous",
+  "id": "unctuous"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "the same throughout; unvarying",
+  "examples": [
+   "The tiles were a *uniform* shade of gray."
+  ],
+  "note": "Neutral. Consistent throughout. Can suggest monotony in some contexts.",
+  "pos": "adj",
+  "pron": "YOO nuh form",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "uniform",
+  "id": "uniform"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "never stopping",
+  "examples": [
+   "The project required *unremitting* effort for six months."
+  ],
+  "note": "Neutral to negative. Never stopping. *Unremitting pain* or *unremitting effort*.",
+  "pos": "adj",
+  "pron": "un ri MIT ing",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "unremitting",
+  "id": "unremitting"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "unaware; unintentional",
+  "examples": [
+   "He became an *unwitting* accomplice to the prank."
+  ],
+  "note": "Neutral. Not aware of one's role. An *unwitting accomplice* didn't know they were helping.",
+  "pos": "adj",
+  "pron": "un WIT ing",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "unwitting",
+  "id": "unwitting"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "polished, polite, and sophisticated",
+  "examples": [
+   "The *urbane* diplomat charmed everyone at the dinner."
+  ],
+  "note": "Positive. Sophisticated and polished. Opposite: *rustic* or *boorish*.",
+  "pos": "adj",
+  "pron": "ur BAYN",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "urbane",
+  "id": "urbane"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to seize power or a position wrongfully",
+  "examples": [
+   "The general tried to *usurp* the throne."
+  ],
+  "note": "Negative. Taking power or position wrongfully. Implies the rightful holder was pushed aside.",
+  "pos": "v",
+  "pron": "yoo SURP",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "usurp",
+  "id": "usurp"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "designed to be useful rather than attractive",
+  "examples": [
+   "The building had a plain, *utilitarian* design."
+  ],
+  "note": "Neutral. Valuing usefulness over beauty. In philosophy, *utilitarianism* is the greatest good for the greatest number.",
+  "pos": "adj",
+  "pron": "yoo til uh TAR ee un",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "utilitarian",
+  "id": "utilitarian"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "an imaginary perfect society",
+  "examples": [
+   "The founders hoped to build a *utopia* in the countryside."
+  ],
+  "note": "Positive but often ironic. Implies an ideal society, and sometimes an impossible one. Opposite: *dystopia*.\n*Utopian* means idealistic, often unrealistically so.",
+  "pos": "n",
+  "pron": "yoo TOH pee uh",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "utopia",
+  "id": "utopia"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to waver between choices; to be indecisive",
+  "examples": [
+   "She *vacillated* between physics and computer science for months."
+  ],
+  "note": "Negative. Repeated wavering between options. Compare *waver* (milder) and *equivocate* (avoid committing, deliberately).",
+  "pos": "v",
+  "pron": "VAS uh layt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vacillate",
+  "id": "vacillate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "dull; lacking interest or liveliness",
+  "examples": [
+   "The pop song had *vapid* lyrics."
+  ],
+  "note": "Negative. Dull and empty of substance. Compare *insipid* (bland, tasteless).",
+  "pos": "adj",
+  "pron": "VAP id",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vapid",
+  "id": "vapid"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "showing strong feeling; forceful",
+  "examples": [
+   "He made a *vehement* denial of the accusation."
+  ],
+  "note": "Neutral to negative. Intense, passionate feeling. *Vehement opposition*.\n*Vehemence* is the noun.",
+  "pos": "adj",
+  "pron": "VEE uh munt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vehement",
+  "id": "vehement"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "open to bribery; corrupt",
+  "examples": [
+   "The *venal* official sold permits to the highest bidder."
+  ],
+  "note": "Strongly negative. Open to bribery. Don't confuse it with *venial* (minor, forgivable).",
+  "pos": "adj",
+  "pron": "VEEN ul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "venal",
+  "id": "venal"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to regard with deep respect",
+  "examples": [
+   "Many cultures *venerate* their ancestors."
+  ],
+  "note": "Positive. Deep respect, often religious. Compare *revere*.\n*Veneration* is the noun.",
+  "pos": "v",
+  "pron": "VEN uh rayt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "venerate",
+  "id": "venerate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "truthfulness; accuracy",
+  "examples": [
+   "Reporters questioned the *veracity* of his story."
+  ],
+  "note": "Positive. Truthfulness or accuracy, as in *the veracity of a claim*.",
+  "pos": "n",
+  "pron": "vuh RAS uh tee",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "veracity",
+  "id": "veracity"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "using too many words",
+  "examples": [
+   "The *verbose* report could have been half as long."
+  ],
+  "note": "Negative. Using more words than needed. Compare *wordy*, *long-winded*.",
+  "pos": "adj",
+  "pron": "vur BOHS",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "verbose",
+  "id": "verbose"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "the appearance of being true or real",
+  "examples": [
+   "The film's *verisimilitude* came from its careful historical detail."
+  ],
+  "note": "Positive in fiction. The appearance of truth or reality.",
+  "pos": "n",
+  "pron": "ver uh si MIL uh tood",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "verisimilitude",
+  "id": "verisimilitude"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "the everyday language of ordinary people",
+  "examples": [
+   "The poet wrote in the *vernacular* rather than formal Latin."
+  ],
+  "note": "Neutral. Everyday language of ordinary people, as opposed to formal or literary language.",
+  "pos": "n",
+  "pron": "vur NAK yuh lur",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vernacular",
+  "id": "vernacular"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a trace of something that has disappeared",
+  "examples": [
+   "A few stone walls are the last *vestige* of the old castle."
+  ],
+  "note": "Neutral. A small trace of something that once existed.\n*Vestigial* organs, like the human appendix, no longer serve their original function.",
+  "pos": "n",
+  "pron": "VES tij",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vestige",
+  "id": "vestige"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to annoy or puzzle",
+  "examples": [
+   "The riddle *vexed* the whole class."
+  ],
+  "note": "Negative. To annoy or trouble. A *vexed question* is debated and hard to settle.\nA *vexing* problem is a frustrating one.",
+  "pos": "v",
+  "pron": "veks",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vex",
+  "id": "vex"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "capable of working or succeeding",
+  "examples": [
+   "Solar power is now a *viable* option for many homes."
+  ],
+  "note": "Positive. Capable of working or surviving. *A viable plan*.",
+  "pos": "adj",
+  "pron": "VYE uh bul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "viable",
+  "id": "viable"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "experienced through someone else",
+  "examples": [
+   "She got *vicarious* pleasure from her brother's travels."
+  ],
+  "note": "Neutral. Experienced through another person. *Vicarious thrill*.",
+  "pos": "adj",
+  "pron": "vye KAR ee us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vicarious",
+  "id": "vicarious"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "an unexpected change, usually unwelcome",
+  "examples": [
+   "The *vicissitudes* of life taught him patience."
+  ],
+  "note": "Neutral to negative. Unpredictable change, usually unwelcome. Usually plural.\nUsually used in the plural.",
+  "pos": "n",
+  "pron": "vi SIS uh tood",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vicissitude",
+  "id": "vicissitude"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to speak ill of; to defame",
+  "examples": [
+   "The press *vilified* the coach after the loss."
+  ],
+  "note": "Negative. Speaking ill of, often unfairly. Compare *malign* and *disparage*.",
+  "pos": "v",
+  "pron": "VIL uh fye",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vilify",
+  "id": "vilify"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to clear of blame; to prove right",
+  "examples": [
+   "The new evidence *vindicated* the accused man."
+  ],
+  "note": "Positive. Proving someone right or innocent. Compare *exonerate* (clear from blame).",
+  "pos": "v",
+  "pron": "VIN duh kayt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vindicate",
+  "id": "vindicate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "wanting revenge",
+  "examples": [
+   "The *vindictive* neighbor reported every small violation."
+  ],
+  "note": "Negative. Desire for revenge. Stronger and more personal than *spiteful*.",
+  "pos": "adj",
+  "pron": "vin DIK tiv",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vindictive",
+  "id": "vindictive"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a person with exceptional skill, especially in music",
+  "examples": [
+   "The violin *virtuoso* played the concerto from memory."
+  ],
+  "note": "Positive. Exceptional technical skill, especially in music. Can describe a *virtuoso performance*.",
+  "pos": "n",
+  "pron": "vur choo WOH soh",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "virtuoso",
+  "id": "virtuoso"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "extremely harmful or poisonous; bitterly hostile",
+  "examples": [
+   "A *virulent* strain of flu spread through the dorm.",
+   "The article was a *virulent* attack on the mayor."
+  ],
+  "note": "Strongly negative. Extremely harmful or hostile. Used for diseases and bitter attacks.",
+  "pos": "adj",
+  "pron": "VIR uh lunt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "virulent",
+  "id": "virulent"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a person with original ideas about the future",
+  "examples": [
+   "The inventor was a *visionary* decades ahead of his time."
+  ],
+  "note": "Positive. Original thinking about the future. Can imply impracticality in some contexts.\nAlso an adjective: *visionary* ideas.",
+  "pos": "n",
+  "pron": "VIZH uh ner ee",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "visionary",
+  "id": "visionary"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "to spoil; to weaken; to make invalid",
+  "examples": [
+   "One false statement *vitiated* the entire contract."
+  ],
+  "note": "Negative. Spoiling or making invalid. Often legal: *vitiate a contract*.",
+  "pos": "v",
+  "pron": "VISH ee ayt",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vitiate",
+  "id": "vitiate"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "bitterly harsh or scathing",
+  "examples": [
+   "The critic wrote a *vitriolic* review of the play."
+  ],
+  "note": "Strongly negative. Bitterly harsh criticism. Compare *caustic*.\n*Vitriol* is literally sulfuric acid.",
+  "pos": "adj",
+  "pron": "vi tree AHL ik",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vitriolic",
+  "id": "vitriolic"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "a calling; a profession",
+  "examples": [
+   "She found her *vocation* in teaching."
+  ],
+  "note": "Positive. A strong calling to a profession. Compare *avocation* (a hobby).",
+  "pos": "n",
+  "pron": "voh KAY shun",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vocation",
+  "id": "vocation"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "loud and insistent",
+  "examples": [
+   "The fans were *vociferous* in their support."
+  ],
+  "note": "Neutral to negative. Loud and insistent. *Vociferous critics*.",
+  "pos": "adj",
+  "pron": "voh SIF ur us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "vociferous",
+  "id": "vociferous"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "likely to change suddenly or violently",
+  "examples": [
+   "The stock market was *volatile* all week."
+  ],
+  "note": "Negative. Likely to change suddenly. Used for markets, tempers, chemicals.",
+  "pos": "adj",
+  "pron": "VAHL uh tul",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "volatile",
+  "id": "volatile"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "the power of choosing; free will",
+  "examples": [
+   "She left the club of her own *volition*."
+  ],
+  "note": "Neutral. Free choice. *Of one's own volition*.",
+  "pos": "n",
+  "pron": "voh LISH un",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "volition",
+  "id": "volition"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "deliberate and unprovoked; reckless",
+  "examples": [
+   "The *wanton* destruction of the park angered residents."
+  ],
+  "note": "Negative. Deliberate and unprovoked. *Wanton destruction*.",
+  "pos": "adj",
+  "pron": "WAHN tun",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "wanton",
+  "id": "wanton"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "deliberate; stubborn",
+  "examples": [
+   "The judge called it *willful* disobedience of the court."
+  ],
+  "note": "Negative. Deliberate, often stubbornly. *Willful ignorance*.",
+  "pos": "adj",
+  "pron": "WIL ful",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "willful",
+  "id": "willful"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "full of quiet longing or regret",
+  "examples": [
+   "He gave a *wistful* look at his old school."
+  ],
+  "note": "Neutral to slightly sad. Gentle longing for the past or something unattainable.",
+  "pos": "adj",
+  "pron": "WIST ful",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "wistful",
+  "id": "wistful"
+ },
+ {
+  "added": "2026-10-19T02:00:00Z",
+  "def": "passionately devoted",
+  "examples": [
+   "The *zealous* volunteers worked through the night."
+  ],
+  "note": "Positive, but can tip into fanatic. Compare *zealot* (negative, extreme).",
+  "pos": "adj",
+  "pron": "ZEL us",
+  "pronFlag": false,
+  "set": "ws",
+  "word": "zealous",
+  "id": "zealous"
+ }
+]

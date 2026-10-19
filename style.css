@@ -1,0 +1,104 @@
+/* Layout: one printed book page, centered column, Word Smart entry typography; single light theme like the book */
+:root {
+  --paper: #ffffff;
+  --ink: #000000;
+  --ink-soft: #4a4a4a;
+  --box: #dcdcde;
+  --box-line: #1c1c1c;
+  --link: #1f3f99;
+  --danger: #a3141a;
+  --ok: #1d5b2a;
+  --font: "Arimo", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html { background: var(--paper); }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font); font-size: 17px; line-height: 1.42; }
+[hidden] { display: none !important; }
+.page { max-width: 680px; margin: 0 auto; padding-block: 48px 72px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1 { font-size: 36px; line-height: 1.12; font-weight: 700; margin: 0 0 6px; text-wrap: balance; letter-spacing: -0.01em; }
+.sub { margin: 0 0 18px; }
+p { margin: 0 0 12px; text-align: justify; hyphens: auto; }
+.rule-quote { border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink); padding: 8px 12px; margin: 20px 0 26px; text-align: center; font-weight: 700; font-size: 19px; line-height: 1.3; text-wrap: balance; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px 12px; align-items: center; margin: 0 0 22px; }
+.toolbar input[type=search] { flex: 1 1 220px; min-width: 0; font: inherit; font-size: 16px; padding: 6px 10px; border: 1.5px solid var(--box-line); background: var(--paper); color: var(--ink); border-radius: 0; }
+.toolbar select { font: inherit; font-size: 15px; padding: 6px 8px; border: 1.5px solid var(--box-line); background: var(--paper); color: var(--ink); border-radius: 0; }
+.count { font-size: 15px; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+button, .btn { font: inherit; font-size: 15px; font-weight: 700; padding: 6px 14px; border: 1.5px solid var(--box-line); background: var(--paper); color: var(--ink); cursor: pointer; border-radius: 0; display: inline-block; }
+button:hover, .btn:hover { background: var(--box); }
+button:disabled { opacity: .55; cursor: default; }
+button.primary { background: var(--ink); color: var(--paper); }
+button.primary:hover { background: #333; }
+button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, a:focus-visible, .btn:focus-within { outline: 2px solid var(--link); outline-offset: 2px; }
+
+.dict-box { background: var(--box); border: 2px solid var(--box-line); padding: 14px 16px 16px; margin: 0 0 28px; }
+.dict-box h2 { font-size: 20px; margin: 0 0 4px; }
+.dict-box h3 { font-size: 16px; margin: 14px 0 4px; text-transform: uppercase; letter-spacing: .05em; }
+.hint { font-size: 14px; color: var(--ink-soft); margin: 0 0 12px; text-align: left; }
+.fill-status { display: block; margin: 2px 0 0; min-height: 1em; }
+.start-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.start-opt { text-align: left; display: flex; flex-direction: column; gap: 4px; padding: 12px 14px; font-weight: 400; }
+.start-opt strong { font-size: 17px; }
+.start-opt span { font-size: 14px; color: var(--ink-soft); }
+.key-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+.key-row input { flex: 1 1 220px; min-width: 0; font: inherit; font-size: 16px; padding: 6px 8px; border: 1.5px solid var(--box-line); background: var(--paper); color: var(--ink); border-radius: 0; font-family: ui-monospace, Menlo, Consolas, monospace; }
+.key-status { font-size: 14px; margin: 6px 0 0; text-align: left; min-height: 1em; }
+.key-status.ok { color: var(--ok); }
+.key-status.err { color: var(--danger); }
+.form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 14px; }
+.form-grid .full { grid-column: 1 / -1; }
+.field { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.field > label { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; }
+.field > label.check { text-transform: none; letter-spacing: 0; font-size: 15px; font-weight: 400; }
+.field input, .field select, .field textarea { font: inherit; font-size: 16px; padding: 6px 8px; border: 1.5px solid var(--box-line); background: var(--paper); color: var(--ink); border-radius: 0; min-width: 0; }
+.field textarea { resize: vertical; min-height: 64px; }
+.word-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.word-row input { flex: 1 1 200px; min-width: 0; }
+.check { display: flex; gap: 8px; align-items: center; font-size: 15px; }
+.form-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 14px; }
+.form-msg { font-size: 14px; color: var(--danger); }
+@media (max-width: 520px) { .form-grid, .start-grid { grid-template-columns: 1fr; } }
+
+.entry { margin: 0 0 18px; }
+.head { margin: 0 0 6px; font-weight: 700; line-height: 1.3; text-align: left; }
+.hw { font-size: 23px; text-transform: uppercase; letter-spacing: 0.005em; }
+.pron { font-size: 17px; }
+.pos { font-style: italic; font-size: 17px; margin: 0 0.45em 0 0.5em; }
+.def { font-size: 17px; }
+.ex { list-style: none; margin: 0 0 8px; padding: 0 0 0 24px; }
+.ex li { position: relative; margin: 0 0 4px; text-align: justify; }
+.ex li::before { content: "\2022"; position: absolute; left: -12px; }
+.entry p { margin: 0 0 8px; }
+.ops { display: flex; gap: 14px; justify-content: flex-end; font-size: 13px; margin-top: -2px; }
+.ops button { border: 0; background: none; padding: 2px 0; font-size: 13px; font-weight: 400; color: var(--ink-soft); text-decoration: underline; }
+.ops button:hover { background: none; color: var(--ink); }
+.ops .del-yes { color: var(--danger); font-weight: 700; }
+.callout { background: var(--box); text-align: center; font-weight: 700; font-size: 19px; padding: 4px 10px; margin: 6px 0 22px; }
+
+.quiz { border: 2px solid var(--box-line); background: var(--box); padding: 12px 18px 18px; margin: 10px 0 26px; }
+.quiz-bar { background: var(--ink); color: var(--paper); font-weight: 700; font-size: 19px; padding: 4px 8px; margin: 0 0 10px; }
+.quiz p { text-align: left; font-size: 16px; }
+.quiz p button, .quiz-foot button { border: 0; background: none; padding: 0; color: var(--link); font-weight: 400; font-size: 16px; }
+.quiz p button:hover, .quiz-foot button:hover { background: none; text-decoration: underline; }
+.quiz-cols { position: relative; display: grid; grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr); gap: 0 56px; font-size: 16px; user-select: none; -webkit-user-select: none; touch-action: manipulation; }
+.quiz-cols ol { list-style: none; margin: 0; padding: 0; position: relative; z-index: 1; }
+.quiz-cols li { display: grid; grid-template-columns: 30px 1fr; margin: 0 0 6px; min-width: 0; cursor: pointer; align-items: start; }
+.quiz-cols li > span:last-child { min-width: 0; }
+.quiz-cols .wt, .quiz-cols .dt { padding: 0 3px; border: 1.5px solid transparent; }
+.quiz-cols li:hover .wt, .quiz-cols li:hover .dt { border-color: var(--ink-soft); }
+.quiz-cols li.sel .wt, .quiz-cols li.sel .dt { border-color: var(--ink); background: var(--paper); }
+.quiz-cols .n { color: var(--link); text-align: right; padding-right: 8px; font-variant-numeric: tabular-nums; }
+.quiz-cols .n.letter { color: var(--ink); }
+.quiz-cols .mark { font-weight: 700; margin-left: 4px; }
+.quiz-cols .mark.no { color: var(--danger); }
+.quiz-cols svg.lines { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; pointer-events: none; z-index: 2; }
+.quiz-foot { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: baseline; margin-top: 10px; font-size: 15px; }
+.quiz-foot .score { font-weight: 700; }
+.quiz-foot .legend { color: var(--ink-soft); }
+.quiz-foot .legend b.red { color: var(--danger); }
+@media (max-width: 520px) { .quiz-cols { gap: 0 28px; font-size: 14px; } .quiz-cols li { grid-template-columns: 22px 1fr; } .quiz { padding: 10px 10px 14px; } }
+
+.state { border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink); padding: 14px 8px; text-align: center; margin: 10px 0; }
+.state strong { display: block; font-size: 19px; margin-bottom: 4px; }
+.warn { border: 2px solid var(--danger); color: var(--danger); padding: 8px 12px; margin: 0 0 18px; font-size: 15px; }
+footer { margin-top: 40px; text-align: center; font-size: 13px; color: var(--ink-soft); }

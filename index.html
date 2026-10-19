@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- The API key can only ever be sent to your relay (connect-src), and only scripts from this site can run. -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://*.workers.dev; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>SAT Words to Focus</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="page">
+  <h1>SAT Words to Focus</h1>
+  <p class="sub">For each word, there's a basic definition, then a sentence or two showing how the word is used. Entries run in alphabetical order, and a Quick Quiz follows every ten words.</p>
+
+  <div class="rule-quote">Don't move on from a word until you can define it in your own words.</div>
+
+  <!-- First visit: choose how to start -->
+  <section class="dict-box" id="start" hidden>
+    <h2>Start your word list</h2>
+    <p class="hint">Your list is saved only in this browser. Nobody else can see or change it.</p>
+    <div class="start-grid">
+      <button type="button" class="start-opt" id="start-mine"><strong>Start from the SAT Words to Focus list</strong><span id="start-count">211 words, ready to study. Add, edit or delete any of them.</span></button>
+      <button type="button" class="start-opt" id="start-empty"><strong>Start with an empty list</strong><span>Add your own words one at a time.</span></button>
+    </div>
+  </section>
+
+  <div class="toolbar" id="toolbar" hidden>
+    <input type="search" id="q" placeholder="Search words or definitions" aria-label="Search words or definitions">
+    <select id="set" aria-label="Which words to show"><option value="all">All words</option><option value="mine">My words</option><option value="ws">Word Smart P–Z</option></select>
+    <span class="count" id="count"></span>
+    <button type="button" id="toggle-form">Add a word</button>
+    <button type="button" id="toggle-settings">Settings</button>
+  </div>
+
+  <!-- Settings: API key and list tools -->
+  <section class="dict-box" id="settings" hidden>
+    <h2>Settings</h2>
+    <h3>NVIDIA API key</h3>
+    <p class="hint">Automatic filling uses your own key from build.nvidia.com. The key stays in this browser and is sent only to NVIDIA, through a relay that passes it along without storing it.</p>
+    <div class="key-row">
+      <input type="password" id="key" autocomplete="off" spellcheck="false" placeholder="nvapi-…" aria-label="NVIDIA API key">
+      <button type="button" class="primary" id="key-save">Save key</button>
+      <button type="button" id="key-forget">Forget key</button>
+    </div>
+    <label class="check" for="key-remember"><input type="checkbox" id="key-remember"> Remember on this device (leave unticked on a shared computer; the key is then forgotten when you close the tab)</label>
+    <p class="key-status" id="key-status" aria-live="polite"></p>
+
+    <h3>Your list</h3>
+    <div class="form-actions" style="margin-top:6px">
+      <button type="button" id="export">Download my list</button>
+      <label class="btn" for="import">Load a list file</label>
+      <input type="file" id="import" accept="application/json,.json" hidden>
+      <button type="button" id="reset">Start over</button>
+    </div>
+    <p class="key-status" id="list-status" aria-live="polite"></p>
+    <div class="form-actions" style="margin-top:14px"><button type="button" id="settings-close">Close settings</button></div>
+  </section>
+
+  <form class="dict-box" id="form" hidden novalidate>
+    <h2 id="form-title">Add a word</h2>
+    <p class="hint">Type a word and press Enter, or tab out of the box, and the other fields fill in. Check them and change anything before you save. Wrap a word in *asterisks* to set it in italics.</p>
+    <div class="form-grid">
+      <div class="field full"><label for="f-word">Word</label>
+        <div class="word-row">
+          <input id="f-word" autocomplete="off" placeholder="acquiesce">
+          <button type="button" id="f-fill">Fill in the rest</button>
+        </div>
+        <span id="f-fill-status" class="hint fill-status" aria-live="polite"></span>
+      </div>
+      <div class="field"><label for="f-pron">Pronunciation</label><input id="f-pron" autocomplete="off" placeholder="ak wee ES"></div>
+      <div class="field"><label for="f-pos">Part of speech</label>
+        <select id="f-pos"><option value="n">n (noun)</option><option value="v">v (verb)</option><option value="adj">adj (adjective)</option><option value="adv">adv (adverb)</option><option value="phr">phr (phrase)</option></select>
+      </div>
+      <div class="field full"><label class="check" for="f-flag"><input type="checkbox" id="f-flag"> Note the pronunciation</label></div>
+      <div class="field full"><label for="f-def">Definition</label><input id="f-def" autocomplete="off" placeholder="to comply passively; to accept; to agree"></div>
+      <div class="field full"><label for="f-ex">Example sentences, one per line</label><textarea id="f-ex" rows="3" placeholder="The pirates asked Pete to walk the plank; he took one look at their swords and *acquiesced*."></textarea></div>
+      <div class="field full"><label for="f-note">Notes</label><textarea id="f-note" rows="3" placeholder="Related forms, look-alike words, or how it differs from a synonym. Start a new paragraph on a new line."></textarea></div>
+    </div>
+    <div class="form-actions">
+      <button type="submit" class="primary" id="f-save">Save word</button>
+      <button type="button" id="f-cancel">Cancel</button>
+      <span class="form-msg" id="f-msg" role="alert"></span>
+    </div>
+  </form>
+
+  <div id="list"><div class="state"><strong>Loading the word list</strong>Your words appear here in a moment.</div></div>
+
+  <footer id="foot">SAT Words to Focus</footer>
+</div>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
