@@ -92,7 +92,7 @@
       const isSel = sel && sel.key === key && sel.side === "w" && sel.id === w.id;
       let mark = "";
       if (s.revealed) mark = s.pairs[w.id] === w.id ? '<span class="mark ok">&#10003;</span>' : '<span class="mark no">&#10007;</span>';
-      h += '<li data-w="' + esc(w.id) + '"' + (isSel ? ' class="sel"' : "") + '><span class="n">' + (i + 1) + '.</span><span><span class="wt">' + esc(w.word.toLowerCase()) + "</span>" + mark + "</span></li>";
+      h += '<li data-w="' + esc(w.id) + '"' + (isSel ? ' class="sel"' : "") + '><span class="n">' + (i + 1) + '.</span><span><span class="wl"><span class="wt">' + esc(w.word.toLowerCase()) + "</span>" + mark + "</span></span></li>";
     });
     h += "</ol><ol>";
     defs.forEach((id, i) => {
@@ -116,7 +116,7 @@
   function anchor(colsEl, box, selector, side) {
     const t = colsEl.querySelector(selector); if (!t) return null;
     const r = t.getBoundingClientRect();
-    return { x: (side === "right" ? r.right + 3 : r.left - 3) - box.left, y: r.top + Math.min(r.height, 22) / 2 - box.top };
+    return { x: (side === "right" ? r.right + 8 : r.left - 6) - box.left, y: r.top + Math.min(r.height, 22) / 2 - box.top };
   }
   function addLine(svg, a, b, color, width, dash) {
     const l = document.createElementNS(SVGNS, "line");
@@ -131,13 +131,14 @@
     svg.innerHTML = "";
     const css = getComputedStyle(document.documentElement);
     const ink = css.getPropertyValue("--ink").trim() || "#000", red = css.getPropertyValue("--danger").trim() || "#a3141a";
-    const wA = (id) => anchor(colsEl, box, '[data-w="' + CSS.escape(id) + '"] > span:last-child', "right");
+    const wA = (id) => anchor(colsEl, box, '[data-w="' + CSS.escape(id) + '"] .wl', "right");
     const dA = (id) => anchor(colsEl, box, '[data-d="' + CSS.escape(id) + '"] .n', "left");
     Object.entries(s.pairs).forEach(([w, d]) => { const a = wA(w), b = dA(d); if (a && b) addLine(svg, a, b, ink, 2.6); });
     if (s.revealed) { const g = quizGroups.get(key); if (g) g.group.forEach((w) => { const a = wA(w.id), b = dA(w.id); if (a && b) addLine(svg, a, b, red, 1.4); }); }
     if (pointer && sel && sel.key === key) {
       const a = sel.side === "w" ? wA(sel.id) : dA(sel.id);
-      if (a) addLine(svg, a, { x: pointer.x - box.left, y: pointer.y - box.top }, ink, 1.5, "4 4");
+      const px = Math.min(Math.max(pointer.x - box.left, 0), box.width), py = Math.min(Math.max(pointer.y - box.top, 0), box.height);
+      if (a) addLine(svg, a, { x: px, y: py }, ink, 1.5, "4 4");
     }
   }
   const drawAll = () => document.querySelectorAll(".quiz-cols").forEach((c) => drawQuiz(c));
